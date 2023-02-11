@@ -10,11 +10,13 @@
 @media screen and (max-width: 1023px) {
   .place__text {
     font-size: 16px;
+    gap: 25px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .place__text {
+    gap: 25px;
     padding: 0 16px;
   }
 }
