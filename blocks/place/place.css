@@ -19,9 +19,9 @@
 
 @media screen and (max-width: 1023px) {
   .place {
-    padding-bottom: 36px;
     grid-template-columns: 340px 1fr;
     gap: 43px 28px;
+    margin-top: 73px;
   }
 
   .place:last-child{
@@ -31,7 +31,6 @@
 
 @media screen and (max-width: 767px) {
   .place {
-    padding: 0 0 25px 0;
     grid-template-columns: minmax(288px, 1fr);
     gap: 32px;
     margin-top: 50px;
