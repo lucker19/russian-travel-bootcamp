@@ -35,8 +35,4 @@
     gap: 32px;
     margin-top: 50px;
   }
-
-  .place:last-child{
-    padding-bottom: 0;
-  }
 }
